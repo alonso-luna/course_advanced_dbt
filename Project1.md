@@ -1,6 +1,6 @@
-## Week 1 Project
+# Week 1 Project
 
-# Short explanations
+## Short explanations
 
 - fct_events did not have a yml file, so I created the yml.
 - mrr model was not pre-pended with dim_ or fct_ so I added the fct.  
